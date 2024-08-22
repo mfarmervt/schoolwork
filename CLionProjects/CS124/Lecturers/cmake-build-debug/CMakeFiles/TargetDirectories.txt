@@ -1,0 +1,3 @@
+/Users/mfarmer/CLionProjects/CS124/Lecturers/cmake-build-debug/CMakeFiles/Lecturers.dir
+/Users/mfarmer/CLionProjects/CS124/Lecturers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mfarmer/CLionProjects/CS124/Lecturers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
